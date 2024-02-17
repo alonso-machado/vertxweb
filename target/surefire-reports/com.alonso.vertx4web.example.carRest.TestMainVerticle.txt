@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.alonso.vertx4web.example.carRest.TestMainVerticle
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.311 s - in com.alonso.vertx4web.example.carRest.TestMainVerticle
