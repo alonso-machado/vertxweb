@@ -1,0 +1,3 @@
+com\alonso\vertx4web\example\carRest\model\dto\CarRecord.class
+com\alonso\vertx4web\example\carRest\model\entity\Car.class
+com\alonso\vertx4web\example\carRest\MainVerticle.class
